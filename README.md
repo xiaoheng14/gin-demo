@@ -1,2 +1,2 @@
 # gin-demo
-demo-gin
+demo-gin test
